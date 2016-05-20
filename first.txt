@@ -1,0 +1,4 @@
+This is the first line
+second line
+this is conflict resolution
+EclipseMode fixed this file at 2016/5/20 9:35 AM
